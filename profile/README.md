@@ -2,23 +2,13 @@
 
 **English** | [中文](README.zh-CN.md)
 
-**The open-source ontology platform for enterprise AI agents.**
+**An Open-Source Ontology Platform for Enterprise AI Agents**
 
-OpenBKN applies ontology methodology to describe the objects, relationships, rules, risks, and actions of an enterprise, turning knowledge scattered across databases, documents, systems, workflows, and expert experience into a **Business Knowledge Network** — one that agents can understand, execute, govern, and trace.
+OpenBKN uses ontology-based modeling to describe the objects, relationships, rules, risks, and actions that make up an enterprise. It transforms knowledge scattered across databases, documents, systems, processes, and expert experience into a **Business Knowledge Network** that AI agents can understand, execute against, govern, and trace.
 
-Our goal is the first open-source ontology platform to span the full lifecycle: ontology modeling, data connectivity, context generation, action execution, security governance, and end-to-end traceability. OpenBKN does more than help agents find answers — it lets them act safely in real business operations, within explicit business semantics and permission boundaries.
+OpenBKN provides a complete foundation for ontology modeling, data connectivity, dynamic context generation, action execution, security governance, and end-to-end traceability. It helps agents do more than find answers: they can participate safely in real business workflows with clear business semantics, supporting evidence, and permission boundaries.
 
-## Our Vision
-
-**To become the open-source ontology ecosystem trusted by enterprises and developers worldwide.**
-
-We believe ontology should not remain a complex technology available only to the largest organizations. It should be open infrastructure that connects enterprise knowledge, data, workflows, and AI agents. OpenBKN sets out to build a trustworthy, sustainable, and evolving open-source ontology ecosystem together with developers, enterprise users, and ecosystem partners around the world.
-
-## Our Mission
-
-**To make ontology platforms effective and affordable for every enterprise.**
-
-Through open source, standardization, and practical engineering, OpenBKN lowers the cost and complexity of adopting ontology technology, so that organizations of any size can model their business, connect real data, and let AI agents work reliably within clear semantic and governance boundaries.
+Our mission is to make ontology platforms practical and accessible for every enterprise. We believe ontologies will become essential infrastructure connecting enterprise AI agents to analysis, decision-making, and action. Together with enterprises and developers worldwide, we aim to build an open ontology ecosystem that people can trust.
 
 ## Our Open Principles
 
