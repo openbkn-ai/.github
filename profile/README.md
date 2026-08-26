@@ -2,9 +2,43 @@
 
 **English** | [中文](README.zh-CN.md)
 
-OpenBKN is an ontology-driven business knowledge network platform. Through ontology modeling, it turns data and logic scattered across documents, systems, processes, rules, and expert experience into a business knowledge network that agents can understand, execute, and verify. This lets agents operate accurately, safely, and reliably in real business environments—not merely generating answers, but continuously creating executable, traceable, and verifiable business value.
+**The open-source ontology platform for enterprise AI agents.**
 
-OpenBKN consists of **BKN Studio** and **BKN Foundry**:
+OpenBKN applies ontology methodology to describe the objects, relationships, rules, risks, and actions of an enterprise, turning knowledge scattered across databases, documents, systems, workflows, and expert experience into a **Business Knowledge Network** — one that agents can understand, execute, govern, and trace.
 
-- [**BKN Studio**](https://github.com/openbkn-ai/bkn-studio) — build and manage business knowledge networks
-- [**BKN Foundry**](https://github.com/openbkn-ai/bkn-foundry) — run and serve business knowledge networks
+Our goal is the first open-source ontology platform to span the full lifecycle: ontology modeling, data connectivity, context generation, action execution, security governance, and end-to-end traceability. OpenBKN does more than help agents find answers — it lets them act safely in real business operations, within explicit business semantics and permission boundaries.
+
+## Our Vision
+
+**To become the open-source ontology ecosystem trusted by enterprises and developers worldwide.**
+
+We believe ontology should not remain a complex technology available only to the largest organizations. It should be open infrastructure that connects enterprise knowledge, data, workflows, and AI agents. OpenBKN sets out to build a trustworthy, sustainable, and evolving open-source ontology ecosystem together with developers, enterprise users, and ecosystem partners around the world.
+
+## Our Mission
+
+**To make ontology platforms effective and affordable for every enterprise.**
+
+Through open source, standardization, and practical engineering, OpenBKN lowers the cost and complexity of adopting ontology technology, so that organizations of any size can model their business, connect real data, and let AI agents work reliably within clear semantic and governance boundaries.
+
+## Our Open Principles
+
+- **Open Source** — the code is auditable, extensible, and free to run on your own infrastructure.
+- **Open Architecture** — modular services and documented APIs; bring your own models, data sources, and agents.
+- **Open Ecosystem** — built together with developers, enterprises, and partners.
+
+## Projects
+
+| Project | What it is |
+| --- | --- |
+| [**BKN Studio**](https://github.com/openbkn-ai/bkn-studio) | Open-source ontology modeling and management workspace for building enterprise ontologies and business knowledge networks visually. |
+| [**BKN Foundry**](https://github.com/openbkn-ai/bkn-foundry) | Open-source enterprise ontology runtime, providing data connectivity, query, agent context, secure execution, governance, and traceability. |
+| [**BKN SDK**](https://github.com/openbkn-ai/bkn-sdk) | CLI, SDK, and Agent Skill for developers and AI agents. |
+| [**BKN Samples**](https://github.com/openbkn-ai/bkn-samples) | Official sample knowledge networks, datasets, and import tools to get started quickly. |
+
+## Why OpenBKN
+
+- **Ontology-driven, not text piled up** — real business semantics expressed as objects, relationships, rules, risks, and actions.
+- **Dynamic context for agents** — high-quality context generated on demand from the ontology, carrying evidence and constraints.
+- **From understanding to action** — knowledge, tools, and business operations connected, so agents do not just answer questions but carry out tasks.
+- **Secure, governable, traceable** — identity, permissions, policy, risk control, and audit anchored to concrete business objects and actions.
+- **Open source and self-hostable** — inspectable code, extensible capabilities, deployable on your own infrastructure.
