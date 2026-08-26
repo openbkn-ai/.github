@@ -8,17 +8,9 @@ OpenBKN applies ontology methodology to describe the objects, relationships, rul
 
 Our goal is the first open-source ontology platform to span the full lifecycle: ontology modeling, data connectivity, context generation, action execution, security governance, and end-to-end traceability. OpenBKN does more than help agents find answers — it lets them act safely in real business operations, within explicit business semantics and permission boundaries.
 
-## Our Vision
-
-**To become the open-source ontology ecosystem trusted by enterprises and developers worldwide.**
-
-We believe ontology should not remain a complex technology available only to the largest organizations. It should be open infrastructure that connects enterprise knowledge, data, workflows, and AI agents. OpenBKN sets out to build a trustworthy, sustainable, and evolving open-source ontology ecosystem together with developers, enterprise users, and ecosystem partners around the world.
-
 ## Our Mission
 
-**To make ontology platforms effective and affordable for every enterprise.**
-
-Through open source, standardization, and practical engineering, OpenBKN lowers the cost and complexity of adopting ontology technology, so that organizations of any size can model their business, connect real data, and let AI agents work reliably within clear semantic and governance boundaries.
+Our mission is to make ontology platforms effective and affordable for every enterprise. We believe ontology should be open infrastructure that connects enterprise knowledge, data, workflows, and AI agents, and we aim to become the open-source ontology ecosystem trusted by enterprises and developers worldwide.
 
 ## Our Open Principles
 
