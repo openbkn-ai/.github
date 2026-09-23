@@ -2,6 +2,8 @@
 
 [English](README.md) | **中文**
 
+🌐 **官网：**[openbkn.ai](https://openbkn.ai)
+
 **面向企业 AI 智能体的开源本体平台**
 
 *An Open-Source Ontology Platform for Enterprise AI Agents*
